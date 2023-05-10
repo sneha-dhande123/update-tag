@@ -1,4 +1,4 @@
-# GitHub Update Tag Action
+# GitHub Update Tag Action 
 A GitHub action that simply tags the repository with the specified tag. If the tag exists it gets updated.
 
 ## Usage
